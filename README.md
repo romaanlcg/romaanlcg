@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Román</h1>
+<h3 align="center">Genomic sciences student</h3>
 
-<!--
-**romaanlcg/romaanlcg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **identification of Porphyrias variants in the mexican population**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **bioinformatics**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **ro.cerlev@gmail.com**
+
+- ⚡ Fun fact **I like red bull and roblox**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
